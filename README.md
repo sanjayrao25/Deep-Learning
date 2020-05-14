@@ -1,2 +1,2 @@
 # Deep-Learning-
-My implementations of Codes for udacity Deep Learning Nanodegree coursework
+My Implementations of Deep Learning algorithms using the starter code provided by Udacity on their DeepLearning Repo.
